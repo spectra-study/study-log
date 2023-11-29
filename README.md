@@ -10,8 +10,9 @@
 - [2023-11-01 개발환경, docs, topic, partition, key](./date-log/2023-11-01-Kafka-1th.md)
 - [2023-11-08 Spring Kafka Test, Listener, Lifecycle](./date-log/2023-11-08-Kafka-2th.md)
 - [2023-11-15 Kafka Streams, DWorks example](./date-log/2023-11-15-Kafka-3th.md)
-- [2023-11-22 React CDD Getting Started](./date-log/2023-11-22-React-1th.md)
+- [2023-11-22 React CDD Getting Started 1](./date-log/2023-11-22-React-1th.md)
 - [2023-11-23 Java Domain Model](./date-log/2023-11-23-Java-Domain-Model-1th.md)
+- [2023-11-29 React Pattern](./date-log/2023-11-29-React-2th.md)
 
 ### Topics
 
@@ -26,6 +27,7 @@
   - [2023-11-08 Spring Kafka Test, Listener, Lifecycle](./date-log/2023-11-08-Kafka-2th.md)
   - [2023-11-15 Kafka Streams, DWorks example](./date-log/2023-11-15-Kafka-3th.md)
 - React
-  - [2023-11-22 React CDD Getting Started](./date-log/2023-11-22-React-1th.md)
+  - [2023-11-22 React CDD Getting Started 1](./date-log/2023-11-22-React-1th.md)
+  - [2023-11-29 React Pattern](./date-log/2023-11-29-React-2th.md)
 - Java Domain Model
   - [2023-11-23 Java Domain Model](./date-log/2023-11-23-Java-Domain-Model-1th.md)
