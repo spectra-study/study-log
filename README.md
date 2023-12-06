@@ -14,6 +14,7 @@
 - [2023-11-23 Java Domain Model](./date-log/2023-11-23-Java-Domain-Model-1th.md)
 - [2023-11-29 React Pattern](./date-log/2023-11-29-React-2th.md)
 - [2023-11-30 Entity, Sdo](./date-log/2023-11-30-Java-Domain-Model-2th.md)
+- [2023-12-06 React Dev (Quick Start, Tutorial: Tic-Tac-Toe)](./date-log/2023-12-06-React-3th.md)
 
 ### Topics
 
@@ -30,6 +31,7 @@
 - React
   - [2023-11-22 React CDD Getting Started 1](./date-log/2023-11-22-React-1th.md)
   - [2023-11-29 React Pattern](./date-log/2023-11-29-React-2th.md)
+  - [2023-12-06 React Dev (Quick Start, Tutorial: Tic-Tac-Toe)](./date-log/2023-12-06-React-3th.md)
 - Java Domain Model
   - [2023-11-23 Java Domain Model](./date-log/2023-11-23-Java-Domain-Model-1th.md)
   - [2023-11-30 Entity, Sdo](./date-log/2023-11-30-Java-Domain-Model-2th.md)
