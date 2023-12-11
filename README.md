@@ -16,6 +16,7 @@
 - [2023-11-30 Entity, Sdo](./date-log/2023-11-30-Java-Domain-Model-2th.md)
 - [2023-12-06 React Dev (Quick Start, Tutorial: Tic-Tac-Toe)](./date-log/2023-12-06-React-3th.md)
 - [2023-12-07 Entity, Sdo, Service](./date-log/2023-12-07-Java-Domain-Model-3th.md)
+- [2023-12-11 스터디 회고](./date-log/2023-12-11-retrospective-1th.md)
 
 ### Topics
 
@@ -37,3 +38,5 @@
   - [2023-11-23 Java Domain Model](./date-log/2023-11-23-Java-Domain-Model-1th.md)
   - [2023-11-30 Entity, Sdo](./date-log/2023-11-30-Java-Domain-Model-2th.md)
   - [2023-12-07 Entity, Sdo, Service](./date-log/2023-12-07-Java-Domain-Model-3th.md)
+- 회고
+  - [2023-12-11 스터디 회고](./date-log/2023-12-11-retrospective-1th.md)
